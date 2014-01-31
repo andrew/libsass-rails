@@ -1,5 +1,6 @@
-PATH
-  remote: ../sass-rails
+GIT
+  remote: git://github.com/andrew/sass-rails.git
+  revision: 28cabc6d430b1fb9f2c3ef8eeedb177a48ab778c
   specs:
     sass-rails (4.0.1)
       railties (>= 4.0.0, < 5.0)
@@ -7,8 +8,9 @@ PATH
       sassc
       sprockets-rails (~> 2.0.0)
 
-PATH
-  remote: ../sassruby
+GIT
+  remote: git://github.com/andrew/sassruby.git
+  revision: 7ec706e4afa005f3ba40acd01582478375d6deda
   specs:
     sassc (0.1)
       ffi
