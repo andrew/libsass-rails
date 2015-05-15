@@ -1,5 +1,7 @@
 # Libsass Rails
 
+**Update:** Use [sassc-rails](https://github.com/bolandrm/sassc-rails) instead which works properly!
+
 An experiment in rails project using libsass instead of ruby sass with the asset pipeline.
 
 Milage may vary, only works on Mac right now (due to hardcoded binary)
